@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+  <rect width="23" height="23" x=".5" y=".5" fill="url(#a)" rx="11.5" />
+  <rect width="23" height="23" x=".5" y=".5" stroke="#B5B5B5" rx="11.5" />
+  <path fill="#B5B5B5"
+    d="M15.5 12a3.5 3.5 0 0 1-6.663 1.5H7.756A4.502 4.502 0 0 0 16.5 12a4.5 4.5 0 0 0-8.744-1.5h1.08A3.5 3.5 0 0 1 15.5 12Z" />
+  <path fill="#B5B5B5" fill-rule="evenodd"
+    d="M9.646 10.146a.5.5 0 0 1 .708 0l1.5 1.5a.5.5 0 0 1 0 .708l-1.5 1.5a.5.5 0 0 1-.708-.708l.647-.646H3.5a.5.5 0 0 1 0-1h6.793l-.647-.646a.5.5 0 0 1 0-.708Z"
+    clip-rule="evenodd" />
+  <defs>
+    <linearGradient id="a" x1="12" x2="12" y1="0" y2="24" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" />
+      <stop offset="1" stop-color="#EEF6FF" />
+    </linearGradient>
+  </defs>
+</svg>
